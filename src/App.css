@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+	font-size: 1.25rem;
+	background-color: cornflowerblue;
+	color: white;
+}
+
+
+.App-header {
+  background-color: cornflowerblue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
